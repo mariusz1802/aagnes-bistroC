@@ -13,6 +13,7 @@
     "dotenv": "^16.0.0",
     "emailjs-com": "^3.2.0",
     "gatsby": "^4.13.1",
+    "gatsby-cli": "^4.17.1",
     "gatsby-image": "^3.11.0",
     "gatsby-image-background-slider": "^0.0.4",
     "gatsby-plugin-gatsby-cloud": "^4.13.0",
